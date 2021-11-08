@@ -75,7 +75,7 @@ var hi = window.innerHeight;
 	    
 	    //document.getElementById("myFrame").src = "https://script.google.com/macros/s/AKfycby7xOajlwfyrlDp0vR-3mxXC5O95s5uPbh3cz8C/exec" + str;
 	    var ifr = document.getElementById("myFrame");
-	    ifr.contentWindow.location.replace("https://script.google.com/macros/s/AKfycbxgBq2dKdV-4IawJtvdA-3fYyJfSO7BQgnkyJiPwTrLrJMrZdPFDKlGqCBqcbFfMKXE1w/exec"); 
+	    ifr.contentWindow.location.replace("https://script.google.com/macros/s/AKfycbxhqc53qO5YIJ6xXUO5ZFS_ZAsihXZvnPddXxRl64Dbi1oWY2xUKXKnq5aP7godjosSjA/exec"); 
 	    
 		//alert(document.getElementById("myFrame").localStorage.getItem("QQQ"));
         });
